@@ -60,4 +60,4 @@
 
 <BR>
 
- >### **WORKING DIRECTORY** ------gitt add------ **STAGING AREA** ------git commit------ **LOCAL REPOSITORY****
+ >### **WORKING DIRECTORY** ------gitt add------ **STAGING AREA** ------git commit------ **LOCAL REPOSITORY**
