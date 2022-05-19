@@ -48,10 +48,10 @@
  ### **_TRACKED_**
  * Rastreável pelo git.
 
-    ### **1. Unmodified:** arquivo que não sofreu modificação.
-    ### **2. Modified:** Arquivo que sofreu modificação, pode ser verificado pelo SHA-1.
-    ### **3. Staged:** Depois de modificado, aguardando para fazer parte de um commit.
-    ### **4. Commit:** Todas as modificações evelopadas e salvas. 
+    ### 1. Unmodified: Arquivo que não sofreu modificação.
+    ### 2. Modified: Arquivo que sofreu modificação, pode ser verificado pelo SHA-1.
+    ### 3. Staged: Depois de modificado, aguardando para fazer parte de um commit.
+    ### 4. Commit: Todas as modificações evelopadas e salvas. 
 
     <br>
 
